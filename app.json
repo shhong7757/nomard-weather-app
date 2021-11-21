@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "NomardWeatherEntryApp",
-    "slug": "NomardWeatherEntryApp",
+    "name": "WeatherApp",
+    "slug": "WeatherApp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -36,6 +36,8 @@
     },
     "web": {
       "favicon": "./assets/images/favicon.png"
-    }
+    },
+    "description": "",
+    "githubUrl": "https://github.com/shhong7757/nomard-weather-app"
   }
 }
